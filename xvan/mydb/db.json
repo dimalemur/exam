@@ -1,0 +1,48 @@
+{
+  "motherboard": [
+    {
+      "id": 1,
+      "name": "Мат.плата ASUS 'M5A78L-M PLUS/USB3'",
+      "payment": 3500,
+      "link": "https://fcenter.ru/product/goods/144912-Processor_AMD_Athlon_200GE_SocketAM4"
+    },
+    {
+      "id": 2,
+      "name": "фыв",
+      "payment": "фыв",
+      "link": "https://fcenter.ru/product/goods/144912-Processor_AMD_Athlon_200GE_SocketAM4"
+    },
+    {
+      "id": 3,
+      "name": "Мат.плата GIGABYTE \"GA-78LMT-S2 R2\"",
+      "payment": "50000",
+      "link": "https://fcenter.ru/product/goods/142287-Mat_plata_GIGABYTE_GA_78LMT_S2_R2"
+    }
+  ],
+  "processors": [
+    {
+      "id": 1,
+      "name": "интел кор ай 9 hq",
+      "payment": "90000",
+      "link": "https://fcenter.ru/product/goods/144912-Processor_AMD_Athlon_200GE_SocketAM4"
+    },
+    {
+      "id": 2,
+      "name": "asd",
+      "payment": "asd",
+      "link": "https://fcenter.ru/product/goods/144912-Processor_AMD_Athlon_200GE_SocketAM4"
+    },
+    {
+      "id": 3,
+      "name": "фыв",
+      "payment": "фыв",
+      "link": "https://fcenter.ru/product/goods/144912-Processor_AMD_Athlon_200GE_SocketAM4"
+    },
+    {
+      "id": 4,
+      "name": "Мат.плата GIGABYTE \"GA-78LMT-S2 R2\"",
+      "payment": "20000",
+      "link": "https://fcenter.ru/product/goods/142287-Mat_plata_GIGABYTE_GA_78LMT_S2_R2"
+    }
+  ]
+}
